@@ -1,7 +1,7 @@
-Part of a University Algorithms Assignment
+# Most common letter
 
-Initialize a data structure to count and thereby keep track of the frequency of each letter.
-Iterate through each word and each letter within the word to count the occurrences.
-Find the maximum frequency from the dictionary.
-Identify the letters with the maximum frequency and add them to a set.
-Return the set of most common letters.
+Initializes a data structure to count and thereby keep track of the frequency of each letter.
+Iterates through each word and each letter within each word in the set to count occurrences.
+Finds the maximum frequency from the dictionary.
+Identifies the letters with the maximum frequency and adds them to a set.
+Returns the set of most common letters.
